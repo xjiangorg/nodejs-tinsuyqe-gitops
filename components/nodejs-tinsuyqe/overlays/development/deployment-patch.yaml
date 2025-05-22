@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/quay_xjiang/nodejs-tinsuyqe:644038a1b473cde5d1a48f44fcbea9f552fed476@sha256:5c75289a1381d62e48a7e69231ca0f1612a0318d10bc81b09e7803983d3d8f0d
+        - image: quay.io/quay_xjiang/nodejs-tinsuyqe:871caae4694bfd51ddd74cbe6dcb88fdc56bb2de@sha256:764bc65837f14d577235ec6aa28f3ce29d2f534253222cbcb44eaf6769edb6d0
           name: container-image
